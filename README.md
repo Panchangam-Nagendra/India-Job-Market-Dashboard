@@ -1,4 +1,4 @@
-# 🇮🇳 India Job Market Dashboard
+# India Job Market Dashboard
 
 A data-driven dashboard analyzing **India’s job market trends**, including job demand, salaries, experience levels, cities, and hiring companies.  
 This project provides actionable insights for **job seekers, analysts, and recruiters** using interactive visualizations.
@@ -7,11 +7,8 @@ This project provides actionable insights for **job seekers, analysts, and recru
 
 ## 📊 Dashboard Overview
 
-![India Job Market Dashboard](<img width="667" height="371" alt="Dashboard" src="https://github.com/user-attachments/assets/7906fa93-3b2b-4c30-8032-a581f59233a3" />
-)
+<img width="667" height="371" alt="Dashboard" src="https://github.com/user-attachments/assets/7989aa67-5957-471a-818f-fca8eb2b0047" />
 
-> 📌 *Upload the dashboard screenshot to your repository and name it*  
-> **`dashboard-screenshot.png`** *(or update the image path accordingly)*
 
 ---
 
