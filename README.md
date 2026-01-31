@@ -7,7 +7,8 @@ This project provides actionable insights for **job seekers, analysts, and recru
 
 ## 📊 Dashboard Overview
 
-![India Job Market Dashboard](./dashboard-screenshot.png)
+![India Job Market Dashboard](<img width="667" height="371" alt="Dashboard" src="https://github.com/user-attachments/assets/7906fa93-3b2b-4c30-8032-a581f59233a3" />
+)
 
 > 📌 *Upload the dashboard screenshot to your repository and name it*  
 > **`dashboard-screenshot.png`** *(or update the image path accordingly)*
